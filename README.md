@@ -9,7 +9,7 @@ adresu  URL.  Użytkownik  powinien  mieć  możliwośc  wyboru,  lub  program  
 
 rozpoznać np po poczatku tekstu (http:// lub www oznacza stronę). 
 
-Parser ma za zadanie znaleźć wszystkie linki na stronie (link jest w tagu <a href=”link”></>), 
+Parser ma za zadanie znaleźć wszystkie linki na stronie (link jest w tagu <a href=”link” />), 
 
 policzyć je i wyświetlić użytkownikowi. 
 
